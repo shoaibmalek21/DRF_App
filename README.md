@@ -13,7 +13,7 @@ Features
 
 Install req.py file using this command
 
-- pip install -r req.py
+- pip install -r requirements
 
  Serve API on localhost
 
