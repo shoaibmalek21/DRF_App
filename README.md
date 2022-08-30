@@ -1,5 +1,8 @@
 # DRF Application
 
-User Registration API 
-User Login API 
-User Logout API 
+Features
+--------
+
+- User Registration API 
+- User Login API 
+- User Logout API 
