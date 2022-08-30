@@ -8,7 +8,7 @@ Features
 - User Logout API 
 - Change Password API
 - Reset Password API
-
+- Update personal profile
 
  Quick Start
 ---------------
