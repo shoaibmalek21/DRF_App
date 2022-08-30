@@ -1,13 +1,15 @@
 # DRF Application
 
+Implement Role Based Authentication and Authorization with DjangoRestFramework and SimpleJWT.
+
 Features
 --------
 
-- User Registration API 
-- User Login API 
-- User Logout API 
-- Change Password API
-- Reset Password API
+- User Registration 
+- User Login 
+- User Logout
+- Change Password 
+- Reset Password
 - Update personal profile
 
  Quick Start
