@@ -1,5 +1,7 @@
 # DRF Application
 
+Implement Role Based Authentication and Authorization with DjangoRestFramework and SimpleJWT.
+
 Features
 --------
 
