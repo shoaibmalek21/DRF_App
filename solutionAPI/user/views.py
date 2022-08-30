@@ -10,7 +10,9 @@ from knox.views import LoginView as KnoxLoginView
 from rest_framework import status
 from django.contrib.auth.models import User
 from .serializers import ChangePasswordSerializer
+
 from rest_framework.permissions import IsAuthenticated
+
 
 # Register API
 class RegisterAPI(generics.GenericAPIView):
