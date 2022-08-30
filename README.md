@@ -6,7 +6,8 @@ Features
 - User Registration API 
 - User Login API 
 - User Logout API 
-
+- Change Password API
+- Reset Password API
 
  Quick Start
 ---------------
